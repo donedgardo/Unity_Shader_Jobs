@@ -26,7 +26,7 @@ Explore the repository’s features and examples through these detailed recordin
 
   This recording demonstrates the implementation and visualization of GPU-based compute shader techniques for accelerating complex tasks, such as dynamic simulations and rendering operations.
 
-### 2. Mathematical Surfaces
+### 2. Morphing Mathematical Surfaces
 
 - [Movie_007.webm](https://github.com/user-attachments/assets/9e4f5f7b-f7cf-4792-8a95-c160a423b6dd)
 
